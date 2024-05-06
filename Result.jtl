@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1715037569950,295,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,295,0,174
+1715037570246,148,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,148,0,0
+1715037570496,140,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,140,0,0
+1715037570748,114,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,114,0,0
+1715037570996,97,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,97,0,0
+1715037571246,308,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,308,0,0
+1715037571555,107,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,107,0,0
+1715037571807,148,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,148,0,0
+1715037572057,92,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,92,0,0
+1715037572308,107,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,107,0,0
+1715037572558,97,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,97,0,0
+1715037572808,92,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,92,0,0
+1715037573058,112,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,112,0,0
+1715037573308,96,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,96,0,0
+1715037573556,92,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,92,0,0
+1715037573806,108,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,108,0,0
+1715037574056,94,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,94,0,0
+1715037574306,90,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,90,0,0
+1715037574556,110,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,110,0,0
+1715037574808,98,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,98,0,0
+1715037575056,91,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,91,0,0
+1715037575306,114,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,114,0,0
+1715037575556,94,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,94,0,0
+1715037575806,88,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,88,0,0
+1715037576058,125,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,125,0,0
+1715037576306,94,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,94,0,0
+1715037576558,94,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,94,0,0
+1715037576806,103,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,103,0,0
+1715037577059,104,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,104,0,0
+1715037577306,95,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,95,0,0
+1715037577558,107,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,107,0,0
+1715037577808,90,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,90,0,0
+1715037578056,99,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,99,0,0
+1715037578308,110,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,110,0,0
+1715037578558,94,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,94,0,0
+1715037578806,88,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,88,0,0
+1715037579058,115,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,115,0,0
+1715037579308,94,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,94,0,0
+1715037579556,106,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,106,0,0
+1715037579806,123,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,123,0,0
+1715037580056,89,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,89,0,0
+1715037580309,89,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,89,0,0
+1715037580558,114,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,114,0,0
+1715037580808,89,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,89,0,0
+1715037581058,92,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,92,0,0
+1715037581308,109,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,109,0,0
+1715037581558,94,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,94,0,0
+1715037581806,89,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,89,0,0
+1715037582058,122,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,122,0,0
+1715037582306,98,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,98,0,0
+1715037582556,93,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,93,0,0
+1715037582806,113,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,113,0,0
+1715037583055,96,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,96,0,0
+1715037583308,91,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,91,0,0
+1715037583556,116,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,116,0,0
+1715037583805,97,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,97,0,0
+1715037584056,94,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,94,0,0
+1715037584306,110,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,109,0,0
+1715037584555,95,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,95,0,0
+1715037584808,93,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,93,0,0
+1715037585056,110,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,110,0,0
+1715037585305,92,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,92,0,0
+1715037585556,90,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,90,0,0
+1715037585806,115,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,115,0,0
+1715037586055,94,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,94,0,0
+1715037586306,94,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,94,0,0
+1715037586558,141,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,141,0,0
+1715037586805,101,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,101,0,0
+1715037587056,90,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,89,0,0
+1715037587307,116,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,116,0,0
+1715037587555,95,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,95,0,0
+1715037587806,97,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,97,0,0
+1715037588056,127,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,127,0,0
+1715037588307,102,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,102,0,0
+1715037588556,93,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,93,0,0
+1715037588808,115,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,115,0,0
+1715037589055,96,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,96,0,0
+1715037589306,96,Регистрация водителя,201,Created,Коллекция Страхования 1-1,text,true,,1021,625,1,1,https://partner.agentapp.ru/v1//insured_objects/drivers,96,0,0
+1715037589556,116,Запрос за токеном,200,OK,Коллекция Страхования 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,116,0,0
+1715037589807,116,Страхование автомобиль,201,Created,Коллекция Страхования 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,116,0,0
